@@ -1,4 +1,5 @@
-Pomodoro timer in React.
+A Pomodoro timer built with React.
+https://obolland.github.io/pomodoro-timer/
 
 Use the up and down buttons to select session length (amount of time you wish the primary timer to count down from) and break length (the amount of time you wish the secondary timer to count down from).
 
